@@ -124,6 +124,7 @@ D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Autofac.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Chronic.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\EntityFramework.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\EntityFramework.SqlServer.dll
+D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.Azure.Documents.Client.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.Azure.KeyVault.Core.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.Bot.Builder.Autofac.dll
@@ -140,9 +141,11 @@ D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.IdentityModel.Protoc
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.IdentityModel.Tokens.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.Rest.ClientRuntime.dll
+D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.Web.Infrastructure.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.WindowsAzure.Configuration.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Microsoft.WindowsAzure.Storage.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Newtonsoft.Json.dll
+D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Swashbuckle.Core.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\System.IdentityModel.Tokens.Jwt.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\System.Net.Http.Formatting.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\System.Spatial.dll
@@ -150,6 +153,7 @@ D:\ADSM\ChatBotApplication\ChatBotApplication\bin\System.Web.Cors.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\System.Web.Http.Cors.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\System.Web.Http.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\System.Web.Http.WebHost.dll
+D:\ADSM\ChatBotApplication\ChatBotApplication\bin\WebActivatorEx.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\Autofac.xml
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\EntityFramework.xml
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\EntityFramework.SqlServer.xml
@@ -233,6 +237,5 @@ D:\ADSM\ChatBotApplication\ChatBotApplication\bin\ko\System.Spatial.resources.dl
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\ru\System.Spatial.resources.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\zh-Hans\System.Spatial.resources.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\bin\zh-Hant\System.Spatial.resources.dll
-D:\ADSM\ChatBotApplication\ChatBotApplication\obj\Debug\ChatBotApplication.csprojResolveAssemblyReference.cache
 D:\ADSM\ChatBotApplication\ChatBotApplication\obj\Debug\ChatBotApplication.dll
 D:\ADSM\ChatBotApplication\ChatBotApplication\obj\Debug\ChatBotApplication.pdb
